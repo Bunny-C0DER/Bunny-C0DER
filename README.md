@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bunny-C0DER
-- 👀 I’m interested in Web Development
 - 🌱 I'm Hard-working and passionate.
-- ✨ Student at Kalinga Institute of Industrial Technology(KIIT), Bhubaneswar, Odisha
+- ✨ Student at Kalinga Institute of Industrial Technology(KIIT), Bhubaneswar, Odisha.
 
 
 <!---
